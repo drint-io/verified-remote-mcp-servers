@@ -1,0 +1,8 @@
+{
+  "name": "CGC Airport Transfers",
+  "url": "https://cgctransfers.com.au/wp-json/cgc-gateway/v1/mcp",
+  "category": "Travel & Local",
+  "site": "https://cgctransfers.com.au/ai-agent-gateway/",
+  "auth": "Open",
+  "maintainer": "CGC Airport Transfers"
+}
