@@ -7112,6 +7112,20 @@
     }
   },
   {
+    "slug": "cgc-airport-transfers",
+    "name": "CGC Airport Transfers",
+    "url": "https://cgctransfers.com.au/wp-json/cgc-gateway/v1/mcp",
+    "category": "Travel & Local",
+    "auth": "Open",
+    "maintainer": "CGC Airport Transfers",
+    "site": "https://cgctransfers.com.au/ai-agent-gateway/",
+    "check": {
+      "status": "passed",
+      "checkedAt": "2026-11-23T23:59:35.700Z",
+      "toolCount": 4
+    }
+  },
+  {
     "slug": "chainflip-broker-as-a-service",
     "name": "Chainflip Broker as a Service",
     "url": "https://chainflip-broker.io/mcp",
